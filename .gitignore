@@ -1,7 +1,15 @@
+*.swp
+package-lock.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.pytest_cache
 *.py[codz]
 *$py.class
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
 
 # C extensions
 *.so

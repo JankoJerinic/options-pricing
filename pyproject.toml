@@ -7,7 +7,7 @@ name = "spx-options-pricing"
 version = "0.1.0"
 description = "SPX Options Pricing System"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 authors = [{ name = "Your Name", email = "your.email@example.com" }]
 classifiers = [
     "Development Status :: 3 - Alpha",
